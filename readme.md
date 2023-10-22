@@ -1,4 +1,4 @@
-# Sample PetShep Application, to help simulate and demonstrate a real world example of securing a software supply chain. The following technologies were used
+# Sample PetShop Application, to help simulate and demonstrate a real world example of securing a software supply chain. The following technologies were used
 
 [ DeepSource, Jenkins, Docker, JFrog ]
 
